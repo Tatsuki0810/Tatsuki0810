@@ -1,16 +1,14 @@
-### Hi there 👋
+# 中森 立樹(Tatsuki Nakamori)
+---
+独立行政法人 鳥羽商船高等専門学校
+情報機械システム工学科 1年  
+Mail: 22257@toba-cmt.ac.jp  
+Facebook: https://facebook.com/Tatsuki0810  
+GitHub: https://github.com/Tatsuki0810  
 
-<!--
-**Tatsuki0810/Tatsuki0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contests
+・第33回 全国高等専門学校プログラミングコンテスト  
+　自由部門「MARINE TRASHART」 敢闘賞(2022年10月)  
+・第20回 キャンパスベンチャーグランプリ  
+　中部大会「りぷら」 奨励賞(2023年1月)
