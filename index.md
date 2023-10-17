@@ -15,4 +15,4 @@ GitHub: [Tatsuki0810](https://github.com/Tatsuki0810)
 ・NIT Toba Hackathon 2023/03    
 　BlackBoxTest「HakiHaki」百五銀行賞・松阪電子計算センター賞・三重県賞　　   
 ・第34回 全国高等専門学校プログラミングコンテスト  
-　自由部門「ぱどろーる」 出場予定(2023年10月)
+　自由部門「ぱどろーる」 優秀賞(2023年10月)
