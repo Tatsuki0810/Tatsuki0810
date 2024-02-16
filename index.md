@@ -5,6 +5,7 @@
 Mail: [22257@toba-cmt.ac.jp](<mailto:22257@toba-cmt.ac.jp>)  
 Facebook: [Tatsuki0810](https://facebook.com/Tatsuki0810)  
 GitHub: [Tatsuki0810](https://github.com/Tatsuki0810)  
+Wantedly: [Tatsuki0810](https://wantedly.com/id/Tatsuki0810)  
 
 
 ## 参加したイベント・コンテスト
